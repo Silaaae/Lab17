@@ -24,3 +24,5 @@ Ce projet illustre l'utilisation des **BroadcastReceiver** en Android : détecti
 ## Aperçu
 
 > Les captures ci-dessous montrent l'interface et les toasts déclenchés par les receivers.
+<img width="373" height="736" alt="image" src="https://github.com/user-attachments/assets/bf403402-9b42-4189-bca3-302e340b2d70" />
+<img width="205" height="402" alt="image" src="https://github.com/user-attachments/assets/796c02bd-5d76-4f70-b05d-23ad39e56d5c" />
